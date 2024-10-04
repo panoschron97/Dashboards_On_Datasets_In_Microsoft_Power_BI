@@ -1,6 +1,6 @@
 # Microsoft_Power_BI_Project1
 
-These Finance Dashboards are a comprehensive data visualization tool developed using Microsoft Power BI designed to analyze and present insights from a large financial dataset. The dashboards aims to empower stakeholders with interactive analytics to make informed decisions, enhance financial performance and identify trends over time.
+This project is a comprehensive data visualization initiative developed using Microsoft Power BI, aimed at analyzing and presenting insights from a large financial dataset. The objective of the project is to empower stakeholders with interactive analytics to facilitate informed decision-making, enhance overall financial performance and identify trends over time. By leveraging advanced visualization techniques this project seeks to transform complex data into actionable insights that drive strategic outcomes.
 
 # Microsoft_Power_BI_Project2
 
