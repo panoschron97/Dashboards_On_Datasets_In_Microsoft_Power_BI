@@ -4,4 +4,4 @@ This project is a comprehensive data visualization initiative developed using Mi
 
 # Microsoft_Power_BI_Project2
 
-This project leverages a large superstore dataset to create comprehensive sales dashboards that facilitate data-driven decision-making. The analysis focuses on various aspects of sales performance, allowing users to gain insights into regional trends, state-specific behaviors and category/sub-category performance.
+This project leverages a large superstore dataset to create comprehensive sales dashboards that facilitate data-driven decision-making. The analysis focuses on various aspects of sales performance allowing users to gain insights into regional trends, state-specific behaviors and category/sub-category performance.
