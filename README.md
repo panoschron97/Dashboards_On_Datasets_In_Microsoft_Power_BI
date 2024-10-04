@@ -22,7 +22,7 @@ Sum of Profit by Segment: By examining profit margins across segments this dashb
 
 Sum of Sales by Product: Similar to Dashboard 1 this feature allows for a focused look at profitability associated with individual product sales.
 
-Together, these dashboards serve as powerful tools for stakeholders enabling data-driven decision-making and strategic planning to enhance financial performance across various dimensions of the business. The insightful visualizations and aggregations aim to support a deeper understanding of sales trends, product performances and profitability metrics.
+Together these dashboards serve as powerful tools for stakeholders enabling data-driven decision-making and strategic planning to enhance financial performance across various dimensions of the business. The insightful visualizations and aggregations aim to support a deeper understanding of sales trends, product performances and profitability metrics.
 
 # Microsoft_Power_BI_Project2
 
