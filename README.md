@@ -1,4 +1,4 @@
-# Dashboards_On_Datasets_in_Microsoft_Power_BI
+# Dashboards_on_datasets_in_Microsoft_Power_BI
 
 ## Microsoft_Power_BI_Project1
 
