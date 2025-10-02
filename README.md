@@ -1,5 +1,3 @@
-# Dashboards_on_datasets_in_Microsoft_Power_BI
-
 ## Microsoft_Power_BI_Project1
 
 In this project i developed two insightful finance dashboards using Microsoft Power BI leveraging a substantial financial dataset. The first finance dashboard focuses on key sales metrics, showcasing the total sales, total units sold, sales segmented by type, sales by product and monthly sales trends. The second finance dashboard complements the first by highlighting geographical performance, featuring total sales by country, profit analysis by segment and detailed sales figures by product. Together these dashboards provide a comprehensive view of financial performance enabling stakeholders to make data-driven decisions and identify growth opportunities.
